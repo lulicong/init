@@ -1,6 +1,7 @@
 package com.initialize.pub.generate.pojo;
 //1111111111111
 //我来修改了滴滴滴滴滴滴滴滴滴滴滴滴
+//我是b用户我来开发新的功能了
 import java.util.Date;
 
 public class User {
